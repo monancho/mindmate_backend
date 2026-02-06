@@ -1,4 +1,4 @@
-#MindMate 감정일기 README
+# MindMate 감정일기 README
 
 URL: https://mindmate.co.kr/
 backend: https://github.com/monancho/mindmate_backend
